@@ -1,5 +1,4 @@
-Just a personal project to improve my java adnroid developing skills
-This project inspired in our output for TVL mini codefest 2025
+Just an improved version of our output in TVL mini codefest 2025
 
 Librown - Library Own
 4-4-25 : can add books through code only
